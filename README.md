@@ -1,6 +1,6 @@
 # 💫 About Me:
 My full name is **Pulugutha Saketh**  
-I'm a 3rd Year B.Tech CSE student at KL University, passionate about Web Development and Cyber Security.  
+I'm a 4th Year B.Tech CSE student at KL University, passionate about Web Development and Cyber Security.  
 I'm interested in coding, ethical hacking, and exploring new technologies.  
 My quote is "Never stop learning, because life never stops teaching."
 
