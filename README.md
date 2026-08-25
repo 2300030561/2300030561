@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://2300030561.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
 # 👋 Hi, I'm Pulugutha Saketh
 
 ### 🎓 4th Year B.Tech CSE Student | 💻 Web Development | 🔐 Cyber Security
