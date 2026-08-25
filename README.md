@@ -1,38 +1,116 @@
-# 💫 About Me:
-My full name is **Pulugutha Saketh**  
-I'm a 4th Year B.Tech CSE student at KL University, passionate about Web Development and Cyber Security.  
-I'm interested in coding, ethical hacking, and exploring new technologies.  
-My quote is "Never stop learning, because life never stops teaching."
+# 👋 Hi, I'm Pulugutha Saketh
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saketh-pulugutha)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p97301056@gmail.com)
+### 🎓 4th Year B.Tech CSE Student | 💻 Web Development | 🔐 Cyber Security
 
-## 💻 Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+I'm **Pulugutha Saketh**, a 4th Year B.Tech Computer Science Engineering student at **KL University**.
 
-## 🚀 Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+I'm passionate about **Web Development, Cyber Security, Ethical Hacking, and exploring new technologies**. I enjoy building projects, learning new skills, and continuously improving my technical knowledge.
+
+> 💡 "Never stop learning, because life never stops teaching."
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/saketh-pulugutha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:p97301056@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+## 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+---
 
 ## 🗄️ Database
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 🔐 Cyber Security
+
+- 🔎 Ethical Hacking
+- 🛡️ Cyber Security Fundamentals
+- 🌐 Network Security
+- 🐧 Linux
+- 🔍 Security Monitoring
+- 🧪 TryHackMe
+
+---
 
 ## 🛠️ Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📜 Certifications:
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📜 Certifications
+
 - Microsoft Azure Fundamentals (AZ-900)
 - NPTEL - Data Structures using Java
-- RPA -Automation anywhere certified essentials rpa professional 2023
-  
+- RPA - Automation Anywhere Certified Essentials RPA Professional 2023
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=2300030561&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=2300030561&theme=dark&hide_border=false)
+---
 
-![Snake animation](https://raw.githubusercontent.com/2300030561/2300030561/gh-pages/github-contribution-grid-snake.svg)
+## 🚀 Projects
+
+- 🔐 Password Security Analyzer
+- 🐍 GitHub Contribution Snake
+- 🌐 Web Development Projects
+- 🛡️ Cyber Security Projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2300030561&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=2300030561&theme=dark&hide_border=false" />
+</p>
+
+---
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/2300030561/2300030561/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **Email:** p97301056@gmail.com  
+💼 **LinkedIn:** [saketh-pulugutha](https://www.linkedin.com/in/saketh-pulugutha)  
+🐙 **GitHub:** [2300030561](https://github.com/2300030561)
+
+---
+
+⭐ **Thanks for visiting my profile!**
