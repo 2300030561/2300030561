@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://2300030561.github.io/saketh-portfolio-series/">
+<a href="https://saketh-portfolio-series.vercel.app">
   <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_My_Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"/>
 </a>
 
@@ -157,11 +157,5 @@ A personal website showcasing technical skills, projects and professional intere
 ### ✨ "Never stop learning, because life never stops teaching."
 
 **Thanks for visiting my profile!** ⭐
-
-<br/>
-
-<a href="https://2300030561.github.io/saketh-portfolio-series/">
-  <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore My Portfolio"/>
-</a>
 
 </div>
