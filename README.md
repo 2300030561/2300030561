@@ -2,38 +2,54 @@
 
 <img src="hero.svg" width="100%" alt="Saketh Pulugutha — Computer Science, Cybersecurity and Software" />
 
-<a href="https://github.com/2300030561"><img src="https://img.shields.io/badge/GitHub-Profile-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub Profile" /></a> <a href="https://github.com/2300030561/SOC-Log-Analyzer"><img src="https://img.shields.io/badge/Featured%20Project-SOC%20Log%20Analyzer-701A3D?style=for-the-badge&logo=python&logoColor=F8F0F3" alt="SOC Log Analyzer" /></a>
+<a href="https://github.com/2300030561">
+  <img src="https://img.shields.io/badge/GitHub-Profile-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub Profile" />
+</a>
+<a href="https://github.com/2300030561/portfolio">
+  <img src="https://img.shields.io/badge/Explore-My%20Portfolio-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="Portfolio" />
+</a>
+<a href="https://github.com/2300030561/SOC-Log-Analyzer">
+  <img src="https://img.shields.io/badge/Featured%20Project-SOC%20Log%20Analyzer-451126?style=for-the-badge&logo=python&logoColor=F8F0F3" alt="SOC Log Analyzer" />
+</a>
 
 </div>
 
-<img src="section-about.svg" width="100%" alt="About me" />
+---
+
+<img src="section-about.svg" width="100%" alt="About Me" />
 
 🎓 **B.Tech Computer Science Engineering student at KL University** · **CGPA: 7.78**
 
-🛡️ Interested in **cybersecurity, SOC analysis, and defensive security**.
+🛡️ Interested in cybersecurity, SOC analysis, and defensive security.
 
 🐍 Building practical projects with Python while strengthening my foundations in programming, networking, Linux, and security tools.
 
 💡 I enjoy learning new technologies, solving problems, and documenting what I learn through hands-on practice.
 
-<img src="section-projects.svg" width="100%" alt="Selected work" />
+---
 
-<a href="https://github.com/2300030561/SOC-Log-Analyzer"><img src="project-soc.svg" width="100%" alt="SOC Log Analyzer project card" /></a>
+<img src="section-projects.svg" width="100%" alt="Selected Work" />
 
 ### 🔐 SOC Log Analyzer
+
+<a href="https://github.com/2300030561/SOC-Log-Analyzer">
+  <img src="project-soc.svg" width="100%" alt="SOC Log Analyzer project card" />
+</a>
 
 A Python project that analyzes sample authentication logs and highlights suspicious login activity.
 
 * Parses authentication log entries.
 * Counts successful and failed login attempts.
-* Flags repeated failures as a potential brute-force pattern.
+* Flags repeated login failures as a potential brute-force pattern.
 * Generates a readable security report.
 
 **Technologies:** Python · Log Analysis · Basic Threat Detection
 
-[View the SOC Log Analyzer repository](https://github.com/2300030561/SOC-Log-Analyzer) · [Explore all repositories](https://github.com/2300030561?tab=repositories)
+<a href="https://github.com/2300030561/SOC-Log-Analyzer">View Project →</a>
 
-<img src="section-toolkit.svg" width="100%" alt="Technical toolkit" />
+---
+
+<img src="section-toolkit.svg" width="100%" alt="Technical Toolkit" />
 
 <div align="center">
 
@@ -54,25 +70,63 @@ A Python project that analyzes sample authentication logs and highlights suspici
 
 </div>
 
-<img src="section-activity.svg" width="100%" alt="GitHub activity" />
+---
+
+## 🌐 My Portfolio
+
+<div align="center">
+
+<a href="https://github.com/2300030561/portfolio">
+  <img src="https://img.shields.io/badge/Visit%20My-Portfolio-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="Visit My Portfolio" />
+</a>
+
+**Explore my projects, technical skills, and development journey.**
+
+<a href="https://github.com/2300030561/portfolio">View Portfolio Repository →</a>
+
+</div>
+
+---
+
+<img src="section-activity.svg" width="100%" alt="GitHub Activity" />
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=2300030561&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B" height="165" alt="GitHub statistics" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2300030561&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" height="165" alt="Most used languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=2300030561&bg_color=10070C&color=F8F0F3&line=C77B9B&point=E5B5C7&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/2300030561/2300030561/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
 <img src="section-connect.svg" width="100%" alt="Connect" />
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-451126?style=for-the-badge&logo=cisco&logoColor=F8F0F3" alt="Cisco Introduction to Cybersecurity" />
+
 <img src="https://img.shields.io/badge/NPTEL-Exam%20Passed-701A3D?style=for-the-badge" alt="NPTEL exam passed" />
 
-<a href="https://github.com/2300030561"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/saketh-pulugutha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn" /></a>
+<a href="https://github.com/2300030561">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/saketh-pulugutha/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn" />
+</a>
 
 <img src="footer.svg" width="100%" alt="Learn continuously. Build meaningfully." />
 
