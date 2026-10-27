@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Saketh Pulugutha — Computer Science, Cybersecurity and Software" />
+<img src="hero.svg" width="100%" alt="Saketh Pulugutha — Computer Science, Cybersecurity and Software" />
 
-<a href="https://github.com/2300030561"><img src="https://img.shields.io/badge/GitHub-Profile-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub Profile" /></a>
-<a href="https://github.com/2300030561/SOC-Log-Analyzer"><img src="https://img.shields.io/badge/Featured%20Project-SOC%20Log%20Analyzer-701A3D?style=for-the-badge&logo=python&logoColor=F8F0F3" alt="SOC Log Analyzer" /></a>
+<a href="https://github.com/2300030561"><img src="https://img.shields.io/badge/GitHub-Profile-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub Profile" /></a> <a href="https://github.com/2300030561/SOC-Log-Analyzer"><img src="https://img.shields.io/badge/Featured%20Project-SOC%20Log%20Analyzer-701A3D?style=for-the-badge&logo=python&logoColor=F8F0F3" alt="SOC Log Analyzer" /></a>
 
 </div>
 
-<img src="assets/section-about.svg" width="100%" alt="About me" />
+<img src="section-about.svg" width="100%" alt="About me" />
 
 🎓 **B.Tech Computer Science Engineering student at KL University** · **CGPA: 7.78**
 
@@ -17,24 +16,24 @@
 
 💡 I enjoy learning new technologies, solving problems, and documenting what I learn through hands-on practice.
 
-<img src="assets/section-projects.svg" width="100%" alt="Selected work" />
+<img src="section-projects.svg" width="100%" alt="Selected work" />
 
-<a href="https://github.com/2300030561/SOC-Log-Analyzer"><img src="assets/project-soc.svg" width="100%" alt="SOC Log Analyzer project card" /></a>
+<a href="https://github.com/2300030561/SOC-Log-Analyzer"><img src="project-soc.svg" width="100%" alt="SOC Log Analyzer project card" /></a>
 
 ### 🔐 SOC Log Analyzer
 
 A Python project that analyzes sample authentication logs and highlights suspicious login activity.
 
-- Parses authentication log entries.
-- Counts successful and failed login attempts.
-- Flags repeated failures as a potential brute-force pattern.
-- Generates a readable security report.
+* Parses authentication log entries.
+* Counts successful and failed login attempts.
+* Flags repeated failures as a potential brute-force pattern.
+* Generates a readable security report.
 
 **Technologies:** Python · Log Analysis · Basic Threat Detection
 
 [View the SOC Log Analyzer repository](https://github.com/2300030561/SOC-Log-Analyzer) · [Explore all repositories](https://github.com/2300030561?tab=repositories)
 
-<img src="assets/section-toolkit.svg" width="100%" alt="Technical toolkit" />
+<img src="section-toolkit.svg" width="100%" alt="Technical toolkit" />
 
 <div align="center">
 
@@ -55,7 +54,7 @@ A Python project that analyzes sample authentication logs and highlights suspici
 
 </div>
 
-<img src="assets/section-activity.svg" width="100%" alt="GitHub activity" />
+<img src="section-activity.svg" width="100%" alt="GitHub activity" />
 
 <div align="center">
 
@@ -66,18 +65,15 @@ A Python project that analyzes sample authentication logs and highlights suspici
 
 </div>
 
-<img src="assets/section-connect.svg" width="100%" alt="Connect" />
+<img src="section-connect.svg" width="100%" alt="Connect" />
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-451126?style=for-the-badge&logo=cisco&logoColor=F8F0F3" alt="Cisco Introduction to Cybersecurity" />
 <img src="https://img.shields.io/badge/NPTEL-Exam%20Passed-701A3D?style=for-the-badge" alt="NPTEL exam passed" />
 
-<a href="https://github.com/2300030561"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/saketh-pulugutha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn" /></a>
+<a href="https://github.com/2300030561"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/saketh-pulugutha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn" /></a>
 
-<img src="assets/footer.svg" width="100%" alt="Learn continuously. Build meaningfully." />
+<img src="footer.svg" width="100%" alt="Learn continuously. Build meaningfully." />
 
 </div>
-
-
