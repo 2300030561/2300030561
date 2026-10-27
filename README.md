@@ -5,11 +5,8 @@
 <a href="https://github.com/2300030561">
   <img src="https://img.shields.io/badge/GitHub-Profile-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub Profile" />
 </a>
-<a href="https://github.com/2300030561/portfolio">
-  <img src="https://img.shields.io/badge/Explore-My%20Portfolio-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="Portfolio" />
-</a>
 <a href="https://github.com/2300030561/SOC-Log-Analyzer">
-  <img src="https://img.shields.io/badge/Featured%20Project-SOC%20Log%20Analyzer-451126?style=for-the-badge&logo=python&logoColor=F8F0F3" alt="SOC Log Analyzer" />
+  <img src="https://img.shields.io/badge/Featured%20Project-SOC%20Log%20Analyzer-701A3D?style=for-the-badge&logo=python&logoColor=F8F0F3" alt="SOC Log Analyzer" />
 </a>
 
 </div>
@@ -49,6 +46,26 @@ A Python project that analyzes sample authentication logs and highlights suspici
 
 ---
 
+## 🎬 SAKETH — THE SERIES
+
+<div align="center">
+
+**A cinematic, streaming-inspired portfolio.**
+
+Every section is an episode, every project is an Original, and the whole site tells my development journey.
+
+<a href="https://vercel.com/saketh-portfolio/saketh-portfolio-series">
+  <img src="https://img.shields.io/badge/▶%20EXPLORE%20MY%20PORTFOLIO-701A3D?style=for-the-badge&logoColor=F8F0F3" alt="Explore My Portfolio" />
+</a>
+
+**Full-Stack Development · AI & ML · Projects · My Journey**
+
+</div>
+
+> Note: Replace the button URL above with your actual deployed website URL from Vercel when confirmed. The current URL opens the Vercel project dashboard, not necessarily the public portfolio.
+
+---
+
 <img src="section-toolkit.svg" width="100%" alt="Technical Toolkit" />
 
 <div align="center">
@@ -67,22 +84,6 @@ A Python project that analyzes sample authentication logs and highlights suspici
 <img src="https://img.shields.io/badge/Networking%20Basics-701A3D?style=for-the-badge&logo=cisco&logoColor=F8F0F3" alt="Networking basics" />
 <img src="https://img.shields.io/badge/Wireshark-C77B9B?style=for-the-badge&logo=wireshark&logoColor=10070C" alt="Wireshark" />
 <img src="https://img.shields.io/badge/Nmap-451126?style=for-the-badge&logo=linux&logoColor=F8F0F3" alt="Nmap" />
-
-</div>
-
----
-
-## 🌐 My Portfolio
-
-<div align="center">
-
-<a href="https://github.com/2300030561/portfolio">
-  <img src="https://img.shields.io/badge/Visit%20My-Portfolio-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="Visit My Portfolio" />
-</a>
-
-**Explore my projects, technical skills, and development journey.**
-
-<a href="https://github.com/2300030561/portfolio">View Portfolio Repository →</a>
 
 </div>
 
