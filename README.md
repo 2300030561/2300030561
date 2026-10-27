@@ -80,4 +80,4 @@ A Python project that analyzes sample authentication logs and highlights suspici
 
 </div>
 
-<!-- Before publishing, verify the LinkedIn URL and confirm the certification labels are accurate. -->
+
