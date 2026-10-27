@@ -1,139 +1,83 @@
 <div align="center">
 
-<!-- HERO SECTION -->
+<img src="assets/hero.svg" width="100%" alt="Saketh Pulugutha — Computer Science, Cybersecurity and Software" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:21121B,50:6D263F,100:A64F68&height=220&section=header&text=SAKETH%20PULUGUTHA&fontSize=38&fontColor=F6EEE5&fontAlignY=38&desc=Computer%20Science%20%7C%20Cybersecurity%20%7C%20Software&descAlignY=60&descSize=15" />
-
-<a href="https://github.com/2300030561">
-<img src="https://img.shields.io/badge/GitHub-Profile-512237?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/2300030561/SOC-Log-Analyzer">
-<img src="https://img.shields.io/badge/Featured%20Project-SOC%20Log%20Analyzer-782C47?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
+<a href="https://github.com/2300030561"><img src="https://img.shields.io/badge/GitHub-Profile-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub Profile" /></a>
+<a href="https://github.com/2300030561/SOC-Log-Analyzer"><img src="https://img.shields.io/badge/Featured%20Project-SOC%20Log%20Analyzer-701A3D?style=for-the-badge&logo=python&logoColor=F8F0F3" alt="SOC Log Analyzer" /></a>
 
 </div>
 
-<br>
+<img src="assets/section-about.svg" width="100%" alt="About me" />
 
-## 🍷   ABOUT ME
+🎓 **B.Tech Computer Science Engineering student at KL University** · **CGPA: 7.78**
 
-<img align="right" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2300030561&layout=compact&hide_border=true&bg_color=21121B&title_color=E8CDBD&text_color=F6EEE5" />
+🛡️ Interested in **cybersecurity, SOC analysis, and defensive security**.
 
-🎓 **B.Tech Computer Science Engineering** student at KL University.
+🐍 Building practical projects with Python while strengthening my foundations in programming, networking, Linux, and security tools.
 
-🛡️ Interested in **Cybersecurity, SOC Analysis, and Defensive Security**.
+💡 I enjoy learning new technologies, solving problems, and documenting what I learn through hands-on practice.
 
-🐍 Building practical projects using Python and exploring security tools.
+<img src="assets/section-projects.svg" width="100%" alt="Selected work" />
 
-💻 Interested in software development, problem-solving, and continuous learning.
-
-📚 Currently strengthening my foundations in programming, networking, Linux, and cybersecurity.
-
-* 🎯 Goal: Build practical skills and become industry-ready.
-* 🔍 Interest: Security monitoring, log analysis, and threat detection.
-* 🚀 Mindset: Learn consistently. Build practically. Improve every day.
-
-<br clear="right"/>
-
----
-
-## 🛡️   FEATURED PROJECT
-
-<a href="https://github.com/2300030561/SOC-Log-Analyzer">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=38202D&height=100&text=SOC%20LOG%20ANALYZER&fontSize=27&fontColor=F6EEE5&fontAlignY=40&desc=Python%20%7C%20Security%20Log%20Analysis%20%7C%20Brute-Force%20Detection&descSize=12&descAlignY=72"/>
-</a>
+<a href="https://github.com/2300030561/SOC-Log-Analyzer"><img src="assets/project-soc.svg" width="100%" alt="SOC Log Analyzer project card" /></a>
 
 ### 🔐 SOC Log Analyzer
 
-A Python project that analyzes sample authentication logs and identifies suspicious login activity.
+A Python project that analyzes sample authentication logs and highlights suspicious login activity.
 
-**Key features**
-
-* 📄 Parses authentication log entries.
-* 📊 Counts successful and failed login attempts.
-* 🚨 Flags repeated failed logins as a potential brute-force pattern.
-* 📝 Generates a security report.
+- Parses authentication log entries.
+- Counts successful and failed login attempts.
+- Flags repeated failures as a potential brute-force pattern.
+- Generates a readable security report.
 
 **Technologies:** Python · Log Analysis · Basic Threat Detection
 
-<div align="left">
-<a href="https://github.com/2300030561/SOC-Log-Analyzer">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-782C47?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
+[View the SOC Log Analyzer repository](https://github.com/2300030561/SOC-Log-Analyzer) · [Explore all repositories](https://github.com/2300030561?tab=repositories)
 
----
-
-## ⚙️   TECHNICAL TOOLKIT
+<img src="assets/section-toolkit.svg" width="100%" alt="Technical toolkit" />
 
 <div align="center">
 
-### Programming & Development
+**Programming & Development**
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=light" alt="Python, Java, HTML, CSS, JavaScript" />
 
-### Database & Tools
+**Database & Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=light" alt="MySQL, Git, GitHub, VS Code" />
 
-### Cybersecurity & Systems
+**Cybersecurity & Systems**
 
-<img src="https://img.shields.io/badge/Linux%20Fundamentals-512237?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Networking%20Basics-782C47?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-6D263F?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-512237?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOC%20Fundamentals-782C47?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux%20Fundamentals-451126?style=for-the-badge&logo=linux&logoColor=F8F0F3" alt="Linux fundamentals" />
+<img src="https://img.shields.io/badge/Networking%20Basics-701A3D?style=for-the-badge&logo=cisco&logoColor=F8F0F3" alt="Networking basics" />
+<img src="https://img.shields.io/badge/Wireshark-C77B9B?style=for-the-badge&logo=wireshark&logoColor=10070C" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Nmap-451126?style=for-the-badge&logo=linux&logoColor=F8F0F3" alt="Nmap" />
 
 </div>
 
----
-
-## 📊   GITHUB STATISTICS
+<img src="assets/section-activity.svg" width="100%" alt="GitHub activity" />
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=2300030561&show_icons=true&hide_border=true&bg_color=21121B&title_color=E8CDBD&text_color=F6EEE5&icon_color=D7A6A8&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=2300030561&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2300030561&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" height="165" alt="Most used languages" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=2300030561&hide_border=true&background=21121B&ring=D7A6A8&fire=E8CDBD&currStreakLabel=E8CDBD&sideLabels=F6EEE5&dates=D9B5B2&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2300030561&bg_color=10070C&color=F8F0F3&line=C77B9B&point=E5B5C7&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
+
+<img src="assets/section-connect.svg" width="100%" alt="Connect" />
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=2300030561&bg_color=21121B&color=F6EEE5&line=A64F68&point=E8CDBD&area=true&hide_border=true" />
+<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-451126?style=for-the-badge&logo=cisco&logoColor=F8F0F3" alt="Cisco Introduction to Cybersecurity" />
+<img src="https://img.shields.io/badge/NPTEL-Exam%20Passed-701A3D?style=for-the-badge" alt="NPTEL exam passed" />
+
+<a href="https://github.com/2300030561"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/saketh-pulugutha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn" /></a>
+
+<img src="assets/footer.svg" width="100%" alt="Learn continuously. Build meaningfully." />
 
 </div>
 
----
-
-## 🏅   LEARNING & CERTIFICATIONS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-782C47?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Exam%20Passed-6D263F?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🤝   LET'S CONNECT
-
-<div align="center">
-
-<a href="https://github.com/2300030561">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-512237?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/saketh-pulugutha/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-782C47?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21121B,50:6D263F,100:A64F68&height=120&section=footer"/>
-
-**“Learn continuously. Build meaningfully. Stay curious.”**
-
-</div>
+<!-- Before publishing, verify the LinkedIn URL and confirm the certification labels are accurate. -->
