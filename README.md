@@ -1,273 +1,218 @@
-<div align="center">
+<!-- ==================== HERO ==================== -->
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <img src="./dark.svg" width="100%" alt="Saketh Pulugutha — Cybersecurity and Software Development">
-</picture>
+<p align="center">
+  <img src="./dark.svg" alt="Saketh Animated GitHub Banner" width="100%" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://saketh-portfolio-series.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/2300030561">
+    <img src="https://img.shields.io/badge/GitHub-Profile-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saketh-pulugutha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-<a href="https://github.com/2300030561">
-  <img src="https://img.shields.io/badge/GitHub-Profile-00BFFF?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile">
-</a>
-<a href="https://saketh-portfolio-series.vercel.app/">
-  <img src="https://img.shields.io/badge/Live-Portfolio-FF3CAC?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Live Portfolio">
-</a>
-<a href="https://github.com/2300030561/Network-Penetration-Testing-Lab">
-  <img src="https://img.shields.io/badge/Cybersecurity-Network%20Lab-00BFFF?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF" alt="Network Penetration Testing Lab">
-</a>
+<h1 align="center">Hey, I'm Saketh 👋</h1>
 
-<br><br>
+<h3 align="center">💻 CSE Student | Developer | Cybersecurity Enthusiast</h3>
 
-**COMPUTER SCIENCE · CYBERSECURITY · SOFTWARE DEVELOPMENT**
-
-*Build skills. Break limits. Secure tomorrow.*
-
-</div>
+<p align="center">
+  Building projects, exploring cybersecurity, and learning something new every day.
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-Hi! I'm **Pulugutha Saketh**, a Computer Science and Engineering student interested in cybersecurity, SOC analysis, network security and software development.
-
-* 🛡️ Exploring cybersecurity and defensive security.
-* 🐍 Building practical projects using Python and security tools.
-* 💻 Learning programming, Linux, networking and web development.
-* 🔎 Practising security assessment and log analysis in controlled environments.
-* 🚀 Improving my skills through hands-on projects and continuous learning.
+* 🎓 B.Tech Computer Science and Engineering student at **KL University**
+* 📊 Current CGPA: **7.78/10**
+* 💻 Interested in software development, cybersecurity, and security monitoring
+* 🔐 Learning network reconnaissance, vulnerability assessment, and log analysis
+* 🚀 Building practical projects to improve my technical skills
+* 🎬 Designed a cinematic, streaming-inspired personal portfolio
 
 ---
 
 ## 🎓 Education
 
-<div align="center">
-
-### 🎓 KL University
-
-**B.Tech — Computer Science and Engineering**
-
-📍 Vijayawada, Andhra Pradesh
-📅 2023 – 2027
-
-<img src="https://img.shields.io/badge/CGPA-7.78%2F10-00BFFF?style=for-the-badge&logo=academia&logoColor=FFFFFF" alt="CGPA 7.78 out of 10">
-
----
-
-### 📚 DePaul Junior College
-
-**Intermediate — MPC (Mathematics, Physics and Chemistry)**
-
-📍 Berhampur
-📅 2021 – 2023
-
-<img src="https://img.shields.io/badge/Score-67%25-FF3CAC?style=for-the-badge&logo=bookstack&logoColor=FFFFFF" alt="Intermediate score 67 percent">
-
----
-
-### 🏫 St. Vincent Convent School
-
-**School Education**
-
-<img src="https://img.shields.io/badge/Score-82%25-00BFFF?style=for-the-badge&logo=bookstack&logoColor=FFFFFF" alt="School score 82 percent">
-
-</div>
+| Institution                    | Qualification                             | Duration    | Score             |
+| ------------------------------ | ----------------------------------------- | ----------- | ----------------- |
+| **KL University**              | B.Tech — Computer Science and Engineering | 2023–2027   | **CGPA: 7.78/10** |
+| **DePaul Junior College**      | Intermediate — MPC                        | 2021–2023   | **67%**           |
+| **St. Vincent Convent School** | School Education                          | Before 2021 | **82%**           |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 01 — Network Penetration Testing Lab
+### 🔐 1. SecureCorp Security Assessment
 
-<a href="https://github.com/2300030561/Network-Penetration-Testing-Lab">
-  <img src="https://img.shields.io/badge/NETWORK%20PENETRATION%20TESTING-00BFFF?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF" alt="Network Penetration Testing Lab">
-</a>
+A cybersecurity assessment project focused on understanding network services, reviewing web security configurations, and documenting findings in an isolated lab environment.
 
-A hands-on cybersecurity project using an isolated lab environment to practise network reconnaissance, service identification and security observations.
+**Work includes:**
 
-**Key activities**
+* Network reconnaissance using Nmap
+* Service identification and documentation
+* FTP anonymous-access verification
+* HTTP and WebDAV security review
+* DVWA login-page security review
+* Evidence collection and security reporting
+* Lab setup using Kali Linux and Metasploitable2
 
-* 🔎 Network reconnaissance using Nmap.
-* 🗺️ Service identification and application mapping.
-* 📡 FTP anonymous-access verification.
-* 🌐 WebDAV and HTTP security observations.
-* 🧪 DVWA login-page review.
-* 📝 Evidence documentation and security assessment reporting.
+<p>
+  <a href="https://github.com/keerthana-10088/SecureCorp-Security-Assessment">
+    <img src="https://img.shields.io/badge/View%20Project-SecureCorp-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="SecureCorp Project"/>
+  </a>
+</p>
 
-**Technologies**
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-00BFFF?style=flat-square\&logo=kalilinux\&logoColor=FFFFFF)
-![Nmap](https://img.shields.io/badge/Nmap-FF3CAC?style=flat-square\&logo=linux\&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-080A0F?style=flat-square\&logo=linux\&logoColor=00BFFF)
-![Networking](https://img.shields.io/badge/Networking-00BFFF?style=flat-square\&logo=cisco\&logoColor=FFFFFF)
-![Documentation](https://img.shields.io/badge/Documentation-FF3CAC?style=flat-square\&logo=markdown\&logoColor=FFFFFF)
-
-<a href="https://github.com/2300030561/Network-Penetration-Testing-Lab">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-FF3CAC?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View Network Penetration Testing Lab">
-</a>
+> This project is documented as a controlled lab assessment. Testing is restricted to authorized lab systems.
 
 ---
 
-### 🐍 02 — SOC Log Analyzer
+### 📊 2. SOC Log Analyzer
 
-<a href="https://github.com/2300030561/SOC-Log-Analyzer">
-  <img src="https://img.shields.io/badge/SOC%20LOG%20ANALYZER-00BFFF?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="SOC Log Analyzer">
-</a>
+A security-focused project exploring log analysis and basic security-event monitoring.
 
-A Python project designed to analyze sample authentication logs and highlight suspicious login activity.
+**Focus areas:**
 
-**Key features**
+* Security log analysis
+* Identifying suspicious activity
+* Understanding authentication events
+* Improving security monitoring skills
 
-* Parses authentication log entries.
-* Counts successful and failed login attempts.
-* Flags repeated login failures as a potential brute-force pattern.
-* Generates a readable security report.
-
-**Technologies:** Python · Log Analysis · Basic Threat Detection
-
-<a href="https://github.com/2300030561/SOC-Log-Analyzer">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-FF3CAC?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View SOC Log Analyzer">
-</a>
+<p>
+  <a href="https://github.com/2300030561/SOC-Log-Analyzer">
+    <img src="https://img.shields.io/badge/View%20Project-SOC%20Log%20Analyzer-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="SOC Log Analyzer"/>
+  </a>
+</p>
 
 ---
 
-### 🎬 03 — SAKETH: THE SERIES
+### 🎬 3. SAKETH — THE SERIES
 
-A cinematic, streaming-inspired portfolio showcasing my projects, skills, certifications and development journey.
+A cinematic, streaming-inspired personal portfolio where each section feels like an episode and each project gets its own spotlight.
 
-<div align="center">
+**Highlights:**
 
-<a href="https://saketh-portfolio-series.vercel.app/">
-  <img src="https://img.shields.io/badge/▶%20EXPLORE%20MY%20PORTFOLIO-FF3CAC?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Explore My Portfolio">
-</a>
+* Modern, cinematic interface
+* Project showcase
+* Personal introduction and skills
+* Responsive portfolio experience
 
-**Full-Stack Development · AI & ML · Cybersecurity · My Journey**
-
-</div>
+<p>
+  <a href="https://saketh-portfolio-series.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-Open%20Website-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+  </a>
+  <a href="https://github.com/2300030561/saketh-portfolio-series">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Technical Skills
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,react,nodejs,spring,linux,git,github,vscode&theme=dark" alt="Technical Skills"/>
+</p>
 
-### Programming Languages
+### Programming and Development
 
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Python and Java">
+![Python](https://img.shields.io/badge/Python-080A0F?style=flat-square\&logo=python\&logoColor=00BFFF)
+![Java](https://img.shields.io/badge/Java-080A0F?style=flat-square\&logo=openjdk\&logoColor=FF3CAC)
+![C](https://img.shields.io/badge/C-080A0F?style=flat-square\&logo=c\&logoColor=00BFFF)
+![HTML5](https://img.shields.io/badge/HTML5-080A0F?style=flat-square\&logo=html5\&logoColor=FF3CAC)
+![CSS3](https://img.shields.io/badge/CSS3-080A0F?style=flat-square\&logo=css3\&logoColor=00BFFF)
+![React](https://img.shields.io/badge/React-080A0F?style=flat-square\&logo=react\&logoColor=00BFFF)
+![Node.js](https://img.shields.io/badge/Node.js-080A0F?style=flat-square\&logo=nodedotjs\&logoColor=00BFFF)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-080A0F?style=flat-square\&logo=springboot\&logoColor=FF3CAC)
 
-![C](https://img.shields.io/badge/C-00BFFF?style=for-the-badge\&logo=c\&logoColor=FFFFFF)
+### Cybersecurity
 
-### Web Development
+![Network Reconnaissance](https://img.shields.io/badge/Network%20Reconnaissance-080A0F?style=flat-square\&logo=kalilinux\&logoColor=00BFFF)
+![Nmap](https://img.shields.io/badge/Nmap-080A0F?style=flat-square\&logo=linux\&logoColor=FF3CAC)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-080A0F?style=flat-square\&logo=elastic\&logoColor=00BFFF)
+![Web Security](https://img.shields.io/badge/Web%20Security-080A0F?style=flat-square\&logo=owasp\&logoColor=FF3CAC)
+![Linux](https://img.shields.io/badge/Linux-080A0F?style=flat-square\&logo=linux\&logoColor=00BFFF)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" alt="HTML, CSS, JavaScript, React and Node.js">
+### Tools and Platforms
 
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL, Git, GitHub and VS Code">
-
-### Cybersecurity & Systems
-
-<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" alt="Linux and Bash">
-
-<br>
-
-![SOC Operations](https://img.shields.io/badge/SOC%20Operations-00BFFF?style=for-the-badge)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-FF3CAC?style=for-the-badge)
-![Network Security](https://img.shields.io/badge/Network%20Security-00BFFF?style=for-the-badge)
-![Threat Detection](https://img.shields.io/badge/Threat%20Detection-FF3CAC?style=for-the-badge)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-080A0F?style=for-the-badge\&logo=linux\&logoColor=00BFFF)
-
-</div>
+![Git](https://img.shields.io/badge/Git-080A0F?style=flat-square\&logo=git\&logoColor=FF3CAC)
+![GitHub](https://img.shields.io/badge/GitHub-080A0F?style=flat-square\&logo=github\&logoColor=00BFFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-080A0F?style=flat-square\&logo=visualstudiocode\&logoColor=00BFFF)
 
 ---
 
 ## 🏆 Certifications & Badges
 
-<div align="center">
+<p align="center">
+  <a href="https://saketh-portfolio-series.vercel.app/">
+    <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-00BFFF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity"/>
+  </a>
+  <a href="https://saketh-portfolio-series.vercel.app/">
+    <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-FF3CAC?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Fundamentals"/>
+  </a>
+  <a href="https://saketh-portfolio-series.vercel.app/">
+    <img src="https://img.shields.io/badge/NPTEL-DBMS-00BFFF?style=for-the-badge&logo=bookstack&logoColor=white" alt="NPTEL DBMS"/>
+  </a>
+  <a href="https://saketh-portfolio-series.vercel.app/">
+    <img src="https://img.shields.io/badge/Automation%20Anywhere-Certified%20RPA-FF3CAC?style=for-the-badge&logo=automationanywhere&logoColor=white" alt="Automation Anywhere RPA"/>
+  </a>
+</p>
 
-<a href="https://saketh-portfolio-series.vercel.app/">
-  <img src="https://img.shields.io/badge/CISCO-Introduction%20to%20Cybersecurity-00BFFF?style=for-the-badge&logo=cisco&logoColor=FFFFFF" alt="Cisco Introduction to Cybersecurity">
-</a>
-
-<br><br>
-
-<a href="https://saketh-portfolio-series.vercel.app/">
-  <img src="https://img.shields.io/badge/MICROSOFT-Azure%20Fundamentals-FF3CAC?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF" alt="Microsoft Azure Fundamentals">
-</a>
-
-<br><br>
-
-<a href="https://saketh-portfolio-series.vercel.app/">
-  <img src="https://img.shields.io/badge/NPTEL-Database%20Management%20System-00BFFF?style=for-the-badge&logo=academia&logoColor=FFFFFF" alt="NPTEL DBMS">
-</a>
-
-<br><br>
-
-<a href="https://saketh-portfolio-series.vercel.app/">
-  <img src="https://img.shields.io/badge/AUTOMATION%20ANYWHERE-Certified%20RPA-FF3CAC?style=for-the-badge&logo=automationanywhere&logoColor=FFFFFF" alt="Automation Anywhere Certified RPA">
-</a>
-
-<br><br>
-
-<a href="https://saketh-portfolio-series.vercel.app/">
-  <img src="https://img.shields.io/badge/VIEW%20ALL-CERTIFICATES%20%26%20BADGES-080A0F?style=for-the-badge&logo=googlechrome&logoColor=00BFFF" alt="View all certificates and badges">
-</a>
-
-</div>
+<p align="center">
+  📜 Visit my <a href="https://saketh-portfolio-series.vercel.app/">portfolio</a> to explore my certifications and badges.
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=2300030561&show_icons=true&hide_border=true&bg_color=080A0F&title_color=00BFFF&icon_color=FF3CAC&text_color=FFFFFF&ring_color=00BFFF" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2300030561&layout=compact&hide_border=true&bg_color=080A0F&title_color=00BFFF&text_color=FFFFFF" alt="Top Languages"/>
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=2300030561&show_icons=true&hide_border=true&bg_color=080A0F&title_color=00BFFF&text_color=F5F5F5&icon_color=FF3CAC" alt="GitHub Statistics">
+---
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2300030561&layout=compact&hide_border=true&bg_color=080A0F&title_color=00BFFF&text_color=F5F5F5" alt="Most Used Languages">
+## 📊 Contribution Activity
 
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2300030561&bg_color=080A0F&color=F5F5F5&line=00BFFF&point=FF3CAC&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph">
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2300030561&bg_color=080A0F&color=00BFFF&line=FF3CAC&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/2300030561/2300030561/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/2300030561/2300030561/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/saketh-pulugutha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/2300030561">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20me-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://saketh-portfolio-series.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-<a href="https://github.com/2300030561">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-00BFFF?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
-</a>
+<p align="center">
+  <i>“Learn continuously. Build practically. Secure responsibly.”</i>
+</p>
 
-<a href="https://www.linkedin.com/in/saketh-pulugutha/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-FF3CAC?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
-</a>
-
-<a href="https://saketh-portfolio-series.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00BFFF?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio">
-</a>
-
-<br><br>
-
-**LEARN CONTINUOUSLY. BUILD MEANINGFULLY.**
-
-🖤 Jet Black · 💙 Cerulean Blue · 💗 Neon Rose
-
-</div>
+<p align="center">
+  <sub>Theme: Jet Black #080A0F · Cerulean Blue #00BFFF · Neon Rose #FF3CAC</sub>
+</p>
